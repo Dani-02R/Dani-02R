@@ -9,7 +9,7 @@
 
 ## 🌟 Sobre mí
 - 🔥 Explorando el mundo **Frontend + Backend**
-- 🎨 Apasionada por **UI/UX moderno** con toques minimalistas
+- 🎨 Me encanta el **UI/UX moderno** con toques minimal y animación
 - 🌍 En constante aprendizaje con enfoque en **proyectos reales**
 - ✨ *“Innovar, crear y nunca dejar de aprender”*
 
@@ -24,7 +24,7 @@
 
 ## 🚀 Proyectos Destacados
 - 🛰 **Lookation** *(Privado 🔒)* → App para posicionamiento en interiores (fase de pruebas).  
-- 👕 **Emily-Sports** ([Repositorio aquí](#)) → E-commerce deportivo (2023-2024).  
+- 👕 **Emily-Sports** ([Repositorio aquí](#)) → E-commerce deportivo (2023–2024).  
 
 ---
 
@@ -41,12 +41,25 @@
 ---
 
 ## 🌐 Conecta conmigo
+
+<!-- Badges grandes estilo moderno -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/daniiromero/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-daniiromero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:da933522@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:da933522@gmail.com?subject=Hola%20Daniela!%20Vi%20tu%20perfil%20en%20GitHub" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-da933522%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- Iconos minimal redondos (alternativa aún más clean) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniiromero/" target="_blank">
+    <img alt="LinkedIn" height="42" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:da933522@gmail.com?subject=Hola%20Daniela!%20Vi%20tu%20perfil%20en%20GitHub" target="_blank">
+    <img alt="Email" height="42" src="https://cdn.simpleicons.org/gmail/EA4335" />
   </a>
 </p>
 
