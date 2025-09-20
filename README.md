@@ -1,44 +1,49 @@
-# 👋 Hola, soy Daniela Romero  
+# 👋 ¡Hola! Soy Daniela Romero  
 
-💻 **Fullstack developer junior en formación**, apasionado por aprender nuevas tecnologías.  
-🚀 Me gusta realizar proyectos, innovar y aprender constantemente.  
-
----
-
-## 🚀 Tecnologías & Habilidades
-
-- **Lenguajes & Frameworks**: Nest.js | JavaScript | React | Python  
-- **Herramientas**: Git & GitHub | Docker | Swagger | TypeORM  
-- **Metodologías**: Scrum | Pruebas unitarias  
-- **APIs**: Creación y documentación de APIs  
-- **Despliegue**: Vercel | Render | Railway  
+💻 **Fullstack Developer Junior en formación**  
+✨ Apasionada por **aprender nuevas tecnologías**, construir proyectos con impacto y compartir conocimiento.  
 
 ---
 
-## 📌 Proyectos Destacados
+## 🚀 Tecnologías & Habilidades  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nest,py,docker,git,github,postgres,vercel" />
+</p>  
 
-- **Lookation** (Privado 🔒)  
-  Aplicación en desarrollo para posicionamiento en interiores, actualmente en fase de pruebas en un edificio.  
-
-- **Emily-Sports** ([Repositorio aquí](https://github.com/Dani-02R/Emily-Sports.git))  
-  🛍️ Proyecto formativo realizado en mi técnico en programación de software (2023-2024).  
-  Aplicación web para una tienda de ropa con venta en línea.  
-
----
-
-## 📊 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Dani-02R&show_icons=true&theme=radical)  
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-02R&layout=compact&theme=radical)  
+- **Lenguajes & Frameworks:** Nest.js | JavaScript | React | Python  
+- **Herramientas:** Git & GitHub | Docker | Swagger | TypeORM  
+- **Metodologías:** Scrum | Pruebas unitarias  
+- **APIs:** Creación y documentación de APIs  
+- **Despliegue:** Vercel | Render | Railway  
 
 ---
 
-## 📫 Contacto
+## 📌 Proyectos Destacados  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniiromero?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- ✉️ Email: **da933522@gmail.com**
+- **🔒 Lookation** (Privado)  
+  Aplicación para **posicionamiento en interiores**, actualmente en fase de pruebas en un edificio real.  
+
+- **👕 Emily-Sports** ([Repositorio aquí](#))  
+  Proyecto formativo (2023-2024).  
+  Aplicación web para **tienda de ropa deportiva con e-commerce**.  
 
 ---
 
-✨ *"Me gusta realizar proyectos, innovar y aprender constantemente."*  
+## 📊 Estadísticas  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dani-02R&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-02R&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+</p>  
+
+---
+
+## 📫 Contacto  
+- 💼 [LinkedIn](#)  
+- ✉️ **da933522@gmail.com**  
+
+---
+
+✨ _“Me gusta realizar proyectos, innovar y aprender constantemente.”_  
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
+</p>  
